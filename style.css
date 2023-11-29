@@ -109,3 +109,7 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+
+.rvTextRow, .rvTextRow strong{
+    color:#01080E !important;
+}
