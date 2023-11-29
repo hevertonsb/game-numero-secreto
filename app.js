@@ -65,9 +65,6 @@ function reiniciarJogo(){
     limparCampo();
     gerarNumeroAleatorio();
     exibirMensagemInicial();
+    numerosSorteados = [];
     btnReiniciar.setAttribute('disabled', true);
 }
-
-// Para adicionar um elemento ao final da array, você pode usar o método push.
-
-// Para remover o último elemento, você pode usar o método pop.
